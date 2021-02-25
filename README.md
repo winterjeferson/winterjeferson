@@ -12,12 +12,10 @@ Mais de 15 anos de experiência no ramo, atuo como <b>diagramador</b>, <b>design
   <a href="https://jefersonwinter.com.br" target="_blank">
     Site pessoal
   </a>
-</p>
-<p>
+  <br/>
   <a href="https://october31.com.br" target="_blank">
     Web game que desenvolvo
-</p>
-<p>
+  <br/>
   <a href="https://www.linkedin.com/in/jeferson-winter-ba909b57?trk=nav_responsive_tab_profile" target="_blank">
     Linkedin
   </a>
