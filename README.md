@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**winterjeferson/winterjeferson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> 
+Graduado em Comunicação Social, habilitação em Publicidade e Propaganda. 
+</p>
+<p>
+Mais de 15 anos de experiência no ramo, atuo como <b>diagramador</b>, <b>designer</b> e <b>programador</b>.
+</p>
+<p>
+   Confira alguns links:
+</p>
+<p>
+  <a href="https://jefersonwinter.com.br" target="_blank">
+    Site pessoal
+  </a>
+</p>
+<p>
+  <a href="https://october31.com.br" target="_blank">
+    Web game que desenvolvo
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/jeferson-winter-ba909b57?trk=nav_responsive_tab_profile" target="_blank">
+    Linkedin
+  </a>
+</p>  
