@@ -3,7 +3,7 @@
 Graduado em Comunicação Social, habilitação em Publicidade e Propaganda. 
 </p>
 <p>
-Mais de 15 anos de experiência no ramo, atuo como <b>diagramador</b>, <b>designer</b> e <b>desenvolvedor web</b>.
+Mais de 15 anos de experiência no ramo, atuo como <b>designer</b> e <b>desenvolvedor web</b>.
 <br/><br/>
 </p>
 <p>
