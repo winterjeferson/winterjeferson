@@ -20,4 +20,10 @@ Mais de 15 anos de experiência no ramo, atuo como <b>designer</b> e <b>desenvol
   <a href="https://www.linkedin.com/in/jeferson-winter-ba909b57?trk=nav_responsive_tab_profile" target="_blank">
     Linkedin
   </a>
+  <br/>
+  <br/>
 </p>  
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=winterjeferson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=winterjeferson&layout=compact&langs_count=8&theme=dracula"/>
+</p>
