@@ -24,6 +24,6 @@ Mais de 15 anos de experiência no ramo, atuo como <b>designer</b> e <b>desenvol
   <br/>
 </p>  
 <p>
-  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=winterjeferson"/>
   <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson"/>
+  <img height="250px" src="https://github-readme-stats.vercel.app/api?username=winterjeferson"/>
 </p>
