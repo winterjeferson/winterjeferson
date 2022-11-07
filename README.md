@@ -24,6 +24,14 @@ Mais de 15 anos de experiência no ramo, atuo como <b>designer</b> e <b>desenvol
   <br/>
 </p>  
 <p>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson"/>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=winterjeferson"/>
+   <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=winterjeferson&show_icons=true" media="light, no-preference" />
+      <img src="https://github-readme-stats.vercel.app/api?username=winterjeferson&show_icons=true=compact" />
+   </picture>
+</p>
+<p>
+   <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson&show_icons=true" media="light, no-preference" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson&show_icons=true" />
+   </picture>
 </p>
