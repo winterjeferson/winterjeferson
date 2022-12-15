@@ -20,18 +20,4 @@ Mais de 15 anos de experiência no ramo, atuo como <b>designer</b> e <b>desenvol
   <a href="https://www.linkedin.com/in/jeferson-winter-ba909b57?trk=nav_responsive_tab_profile" target="_blank">
     Linkedin
   </a>
-  <br/>
-  <br/>
 </p>  
-<p>
-   <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=winterjeferson&show_icons=true" media="light, no-preference" />
-      <img src="https://github-readme-stats.vercel.app/api?username=winterjeferson&show_icons=true=compact" />
-   </picture>
-</p>
-<p>
-   <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson&show_icons=true" media="light, no-preference" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winterjeferson&show_icons=true" />
-   </picture>
-</p>
